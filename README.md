@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi, I'm Akanksha Sharma</h1>
+<h1 align="center">Hi, I'm Akanksha Sharma 👋</h1>
 <h3 align="center">Passionate Developer and Competitive Programmer | Learning AI, Web Dev, and Building Cool Projects</h3>
 
 - I’m learning **React, Python, and Generative AI**
