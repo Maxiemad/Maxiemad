@@ -64,7 +64,8 @@
 ---
 
 ### 🔝 Badges
-[![An image of @maxiemad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maxiemad)](https://holopin.io/maxiemad)
+[![An image of @maxiemad's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@maxiemad#badges)](https://holopin.io/maxiemad)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Maxiemad&icon=0&color=6)](https://visitcount.itsvg.in)
