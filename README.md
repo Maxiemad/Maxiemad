@@ -63,9 +63,11 @@
 
 ---
 
-### 🔝 Badges
-[![An image of @maxiemad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maxiemad)](https://holopin.io/@maxiemad)
+### 🔝 My Badges
 
+[![Hacktoberfest 2025: Level 0](https://www.holopin.io/hacktoberfest2025/userbadge/cmgax4mot0006jy04imb458fk)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgax4mot0006jy04imb458fk)
+[![Hacktoberfest 2025: Level 1](https://www.holopin.io/hacktoberfest2025/userbadge/cmhst3ac6000pjo04i1bkgmur)](https://www.holopin.io/hacktoberfest2025/userbadge/cmhst3ac6000pjo04i1bkgmur)
+[![Holopin x Hacktoberfest Badge](https://www.holopin.io/userbadge/cmh1slfad00f9k0048p3ncoq5)](https://www.holopin.io/userbadge/cmh1slfad00f9k0048p3ncoq5)
 
 
 
