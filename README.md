@@ -2,9 +2,6 @@
 <h3 align="center">Developer • UI Enthusiast • Competitive Programmer | Exploring AI & Web Wonders</h3>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
 
 ---
 
@@ -45,15 +42,6 @@
 
 ---
 
-### 🤝 Let's Collaborate!
-
-💡 Frontend Projects – Clean UI + React + Tailwind? I’m in!  
-💬 Study Circles – DSA, CP, and all things tech  
-🤝 Hackathons – Always up for building cool impactful stuff  
-🌍 Projects that matter – Mental health, education, sustainability  
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-sharma-741283317/)
@@ -73,19 +61,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Maxiemad&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-
 ---
 
-### ✍️ Random Dev Quote
+### 🔝 Badges
+[![An image of @maxiemad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maxiemad)](https://holopin.io/maxiemad)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Maxiemad&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Maxiemad&icon=0&color=6)](https://visitcount.itsvg.in)
