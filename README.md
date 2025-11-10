@@ -6,10 +6,9 @@
 ### 🧁 About Me
 
 🎓 BTech CSE (AI & ML) student <br/>
-🛠 Frontend Developer • Competitive Programmer • UI/UX Explorer <br/>
+🛠 Full Stack Developer • Competitive Programmer • UI/UX Explorer <br/>
 🌱 Currently diving deep into React, Python, and Generative AI <br/>
 💬 Ask me about Web Dev, Python projects, or anything college-tech! <br/>
-🎨 Fun fact: *I dislike C++ but adore clean UI design* <br/>
 
 ---
 
@@ -65,9 +64,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies/Badges
 
 ![](https://github-profile-trophy.vercel.app/?username=Maxiemad&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://www.holopin.io/@maxiemad#badges)
 
 ---
 
