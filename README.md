@@ -69,10 +69,10 @@
 
 ---
 
-### 🏆 GitHub Trophies/Badges
+### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Maxiemad&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-![halopin](https://www.holopin.io/@maxiemad#badges)
+
 
 ---
 
