@@ -2,8 +2,6 @@
 <h3 align="center">Developer • UI Enthusiast • Competitive Programmer | Exploring AI & Web Wonders</h3>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
----
-
 🎓 BTech CSE (AI & ML) student <br/>
 🛠 Full Stack Developer • Competitive Programmer • UI/UX Explorer <br/>
 🌱 Currently diving deep into React, Python, and Generative AI <br/>
@@ -57,14 +55,5 @@
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Maxiemad&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 🔝 My Badge
-
-[![Hacktoberfest 2025: Level 0](https://holopin.me/cmgax4mot0006jy04imb458fk)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgax4mot0006jy04imb458fk)
-[![Hacktoberfest 2025: Level 1](https://holopin.me/cmhst3ac6000pjo04i1bkgmur)](https://www.holopin.io/hacktoberfest2025/userbadge/cmhst3ac6000pjo04i1bkgmur)
-[![Holopin x Hacktoberfest Badge](https://holopin.me/cmh1slfad00f9k0048p3ncoq5)](https://www.holopin.io/userbadge/cmh1slfad00f9k0048p3ncoq5)
-
 
 [![](https://visitcount.itsvg.in/api?id=Maxiemad&icon=0&color=6)](https://visitcount.itsvg.in)
