@@ -45,15 +45,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxiemad&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiemad&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxiemad&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Maxiemad&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=Maxiemad&icon=0&color=6)](https://visitcount.itsvg.in)
